@@ -40,3 +40,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - sobremesas folder
       - bolo.jpg
       - cupcake.jpg
+      
+## [0.0.2] - 2023-10-19
+
+### Deleted
+
+- lib folder
+  - bootstrap.min.css
+  - bootstrap.min.js
+  
+### Changed 
+
+- index.html
+- style.css
