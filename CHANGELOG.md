@@ -67,3 +67,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - index.html
 - style.css
+
+## [0.0.5] - 2023-10-31
+
+### Changed
+
+- index.html
+- style.css
