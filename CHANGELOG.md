@@ -81,3 +81,50 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - index.html
 - style.css
+
+## [0.1.0] - 2023-11-03
+
+### Added
+
+- catalogo folder
+  - cachorro.jpg
+  - dragao.jpg
+  - gato.jpg
+  - leao.jpg
+  - tanque.jpg
+  - urso.jpg
+- servicos folder
+  - adocao.jpg
+  - banho.jpg
+  - tosa.jpg
+- petshop.jpg
+
+### Deleted
+
+- cardapio folder
+  - bebidas folder
+    - cerveja.jpg
+    - coca-cola.jpg
+    - suco.jpg
+    - vinho.jpg
+  - entradas folder
+    - entrada.jpg
+  - pratos folder
+    - pizza.jpg
+    - salmao.jpg
+  - sobremesas folder
+    - bolo.jpg
+    - cupcake.jpg
+- eventos folder
+   - aniversario.jpg
+   - casamento.jpg
+   - confraternizacao.jpg
+- restaurante.jpg
+
+### Changed
+
+- slide1.png
+- slide2.png
+- slide3.png
+- index.html
+- style.css

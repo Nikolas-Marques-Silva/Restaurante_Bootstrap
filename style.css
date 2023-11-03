@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #7e33b7;
 
 }
 
 header .nav .nav-link.active {
-    color: #e15f41;
+    color: #7e33b7;
     background-color: #fff;
 }
 
@@ -33,17 +33,17 @@ header .nav .nav-link,
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #7e33b7;
 }
 
 .nav-cardapio .nav-link.active,
 #about button{
-    background-color: #e15f41;
+    background-color: #7e33b7;
     color: #ffeae6;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41;
+    color: #7e33b7;
 }
 
 .social-links li {
